@@ -1,0 +1,37 @@
+List of some open source add/sub games/tutors:
+-Minus Mission:
+http://www.arcademics.com/games/mission/mission.html
+Good: Interactive game. Speed. High entertainment value.
+Bad: Cognitive pressure high. Not tutoring, more evaluating. 
+
+-Subtraction blast
+http://www.coolmath-games.com/0-subtraction-blast
+Works on a prediction model. Also correlates addition and subtraction. Child can shoot 2s and 3s on numbers to subtract 2s and 3s from the number. Automatically starts adding 2s and 3s to form a number. for number n, 2*x + 3*y = n
+Good: correlation of addition subtraction, UI, high entertainment value, fast thinking, quick techniques
+Bad: pressure, aiming and shooting takes away attention, user can get by by random shooting. 
+
+-A day at the beach
+http://www.hbschool.com/activity/day_at_beach_k/
+4 fishes are crossed out from 6 fishes. 6 - 4 = ——
+Child is given visual feedback
+Good: uses visual modelling, scaffolding, simple to understand 
+Bad: nothing novel. metaphor is bad. gets repetitive. engaging factor is less. not rated very high.
+
+-Numbers and operations. Level 4 - Addition and Subtraction
+http://www.smarttutor.com/free-resources/free-math-lessons/fourth-grade-math/
+Narrative real world problems. Describes a situation, example, grocery bill total of items and asks the child if the total is correct or not. Calculator UI is provided. Makes use of speech for input, feedback and output.
+Good: Uses a narrative. Gives an example using calculator before asking questions. Speech feedback on hover, speech feedback on input, speech output on reply (e.g.: “Total is not correct”)
+Bad: (for us) this is using a calculator and hence is covering a different domain.
+Interesting: If the option you choose (total is correct / total is not correct) is incorrect, it gives a friendly message (“oops, total is not correct”) and makes you type the correct total by calculating. Narrative after the task is interesting.
+
+- Sum tracks
+http://www.coolmath-games.com/0-sum-tracks
+The child drags the total bubble (8) over the addends bubbles (2,2,2,2) to form a total of the number (8)
+Good: high level of interaction, engaging, visual representation of ‘adding’ through gobbling bubbles
+Bad: Further levels show overlap of some bubbles. This might confuse the child, because this doesn’t imply anything.
+
+- Count Back number line
+Child can count back on the number line for subtraction. Shows loops on the number line as feedback after the answers.
+Good: child gets to count on the number line, which is  avery natural representations. Looping feedback is very easy to understand and a good representation.
+Thoughts: Could have used looping to count
+Bad: Doesn’t work for greater differences. Doesn’t work for many numbers.

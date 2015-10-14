@@ -1,0 +1,111 @@
+4:41 PM 9/25/2015 meet Ran, Harry (where's Safinah?) about addition/subtraction
+
+Jack ask Safinah [ ] change meetings to 4:40pm?
+
+Questions:
+1. What happens at each level of game?
+2. Combine?
+	Concept of + and - using concrete quantity representations
+		Teach |A| + |B| = |{A U B}|:
+			Building Blocks well-validated
+Ran [DONE] send description of Building Blocks 
+			1. Start with A, e.g. 3 balls
+			2. "Add 2 balls" 
+				a. drag 2 balls
+				b. Tap +1 button to add ball
+Jack ask Hima [DONE 5:26 PM 9/25/2015] graphical +1 action for counting <-- DO THIS
+			
+			3. "How many have now?" NumberListen(5)
+			"" -> "count them" -> tutor counts
+			5 -> "Yes, 3 balls + 2 balls = 5 balls"
+			~5 -> "No, 3 balls + 2 balls = 5 balls"
+			
+		Teach count-up and count-down
+			Show:  like 2b but say "makes 3+i"
+			Scaffold:  like 2b but prompt "makes...", ListenNumber(3+i)
+				3+i -> "yes, 3+i"
+				other -> "no, 3+i"
+				"" -> "... 3+i" (just supply the number if student doesn't)
+		Then same but show symbols too.
+		Then keep symbols but hide concrete representation except when needed as hint (grounded feedback).
+
+	Convert to 1-digit math facts
+		Use "count up" 
+		Memorize math facts -- use NumberListen(x+y) because fastest; feedback same as above
+
+		Once master small numbers, graduate to larger (>6? = too large to subitize) 1-digit numbers.  No more concrete representations.
+
+THEN.... Introduce 2-digit numbers.
+	Show: animation of |||||||| "9" + 1 -> |||||||||| "10"
+	Show "10" + |||||||| = 19 + 1 -> "20"
+
+	Show place value:  10's place = # of groups of 10, 1's place = # leftovers
+	Animation shows highlighting each group of 10 and counting # of groups -- "1, 2, ..." -> into 10's place
+	|||||||||| 
+	|
+
+	|||||||||| 
+	||
+	...
+
+	|||||||||| 
+	|||||||||| 
+Audiovisually 
+etc. associate # groups with # in 10's place, e.g. by highlighting and counting, maybe later by using { to skip the counting
+
+2-digit addition and subtraction procedures:
+	Start with problems without carry or borrow.
+		AB + CD
+	1. Show procedure.
+	2. Assisted practice:  highlight and say "B + D = " to prompt for each spoken digit; then same for "A + C".
+
+	Critique:  catch 1-digit addition errors by simulated student.
+Safinah & Harry [ ] How should student announce errors?
+a. ASR:  Tutor occasionally asks "right?"; teach student to respond"yes, #" or "no, #".
++:  seems natural
+-:  ASR errors?
+Jack [ ] tell Haonan to support listening for combination of word and number.
+b. Finger-writing?
+c. Other?
+
+
+Harry & Jack [DONE] use Building Blocks activities Ran sent 5:01 PM 9/25/2015 to brainstorm activities.
+McGraw-Hill uses them in proprietary software.
+
+Harry & Safinah [ ]  What else do you glean from these activities?
+
+Ran [ ] Are vivid detailed objects better than abstract artificial objects?
+5:21 PM 9/25/2015 asked Ran.
+
+ask Ran [ ] better to get fluent on no-carry and no-borrow problems before progressing to carry and borrow?
+Jack guesses not, lest interfere with learning to carry and borrow.
+Already fluent with 1-digit math facts.
+
+BESIDES OR INSTEAD OF SPOKEN INPUT, USE FINGER-WRITING.
+NEED TO FLESH OUT THE REST -- WHICH STEPS, WHAT INPUT, WHAT FEEDBACK TO RIGHT AND WRONG RESPONSES, HINTS WHEN NO RESPONSE:
+	Then teach carry and borrow.
+
+	Show carry.  Introduce carry box above 10's column.
+Safinah and Harry [ ] what to display for borrow?
+
+	Assisted practice:
+		Expect carry in carry box.  Finger-writing here needed for student to show where to put the number.
+		Try to write elsewhere -> prompt to carry.
+
+	Critique:
+		Turn tables -- catch mistakes by simulated student.
+		- Failure to carry.
+		- Carry when shouldn't.
+		- Mis-add 1's column.
+		- Mis-add 10's column.
+
+	How should student respond to each type of error?
+	Spoken as with no-carry problems?  But how respond to failure to carry?
+
+	Finger-written?  Respond to either type of carry error by tapping in carry box.
+	
+	(Everything same for borrow?  If not, how differs? -- needs to decrement 10's place #.  How cross out and replace?)
+
+	
+
+
