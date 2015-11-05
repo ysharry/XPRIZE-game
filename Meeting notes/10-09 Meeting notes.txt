@@ -1,0 +1,28 @@
+10/09 Meeting notes
+
+- Harry shows animation of the dots made in JS.
+- Jack’s review: Looks like the lower end is coming up and going down. We want a more fade in towards each other without overlap animation.
+- [Jack]: Ask Ran: If we want them to learn the count up procedure for addition. Count up from the larger number/count up from the first number.
+- [Harry]: Can make implicit illustration that smaller moves towards bigger. Move them for a distance inversely proportionate to their size
+- The number of dots may vary. 6 maximum graphics. Discuss which graphics to show. These may be different heights. 
+- [Safinah]:Don’t show numbers. It adds complexity.
+- [Safinah]:Remove the 4+2 from the top. 
+- [Safinah]:Box of objects to be moved on the left of the number. Natural counting leading to number.
+- Can we show the dots all horizontally? Horizontal addition- NO.
+- Jack says the dots merge and move down to the bottom on the bottom line all combined. We can have the lower number after the higher number (on the right).
+- [Safinah]:Move dots down to the bottom to show the sum.
+- [Harry]: Make the animation of the dots all moving down and adding on the bottom row. 
+- [Safinah]:Use a horizontal line instead of the equal sign. Standard line notation. No =. Remove the box. Finger writing case. Use it only in level 2 and level 3. 
+- Use vertical arrangement for the app.
+- Highlight and say (oral speech) tap on plus is also teaching the child the notation of the plus sign. 
+- Automation of the combining the dot boxes. Dragging? 
+- [Safinah]:Demo - do the merge. Kid is just tapping the plus. NO need to even write the 6.
+Assisted practice - show the dots. Plus won’t be a button. Can make it a button in assisted practice if the kid still doesn’t have the buttons.
+- Speech for each, tap the plus to add 4 plus 2. 
+“So how much is 4 plus 2?” then the kid wrote the answer in the finger writing box.
+- Finger writing- finger prompt will bring it up. Paper will come up when he taps on the finger writing icon. 
+- Tap on the plus sign to add 2 to 4, to subtract 2 from 4. Add 4 plus 2 - canonical order. 
+- [Safinah]:[Harry]: Boxes will move down. We see dots for the operants and for the result. We will only see the 4 + 2 vertically. 
+- Notations: 4 & +2, 4 & -2.
+- [Safinah]:Use instead: 3 -1 or 3 -2 so that 2 doesn’t show up twice. 
+- [Safinah]:[Harry]: Get black white closer and they vanish into grey. 

@@ -1,0 +1,115 @@
+body {
+	/*background: url("res/background.jpg") 0 0 no-repeat;*/
+	background-size: 100% auto	
+}
+
+.tutor{
+	position: relative;
+	top:135px;
+	left:300px;
+	height:500px;
+	width:900px;
+}
+
+.label{
+	display: none;
+	position: absolute;
+	color:black;
+	font-size: 60px;
+	font-family: "Roboto";
+	font-weight: 300;
+	left:256px;
+}
+#x{
+	top:140px;
+}
+#y{
+	top:287px;
+}
+#sum{
+	top:150px;
+}
+
+.box{
+	display: none;
+	position: relative;
+	left: 75px;
+	right: 50px;
+	height: 90px;
+	width: 457px;
+	background-color: #fcfcfc;
+	border: solid 2px;
+	border-color: black;
+	border-radius: 40px;
+
+}
+.sign{
+	position: absolute;
+	top:163px;
+	left:-92px;
+}
+
+#b2{
+	position: relative;
+	top: 55px;
+}
+
+
+.dot{
+	position: relative;
+	top:0px;
+	opacity: 0;
+	display: inline-block;
+	margin: 10px;
+	margin-left: 10px;
+	width: 66px;
+	height: 66px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 25px;
+	color:white;
+}
+
+#plus{
+	width: 60px;
+	height: 60px;
+}
+
+.container{
+	position: relative;
+	left:2px;
+}
+.answer{
+	display: none;
+	position:absolute;
+	top:290px;
+	left:-50px;
+}
+.ansbox{
+	width:90px;
+	height:60px;
+	border: solid 2px;
+	border-color: ;
+	border-radius: 3px;
+	padding-bottom: 60px;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Roboto';
+	font-weight: 400;
+}
+.number{
+	color:#193E89;
+	display: none;
+}
+.line{
+	display:none;
+	position: absolute;
+	top:245px;
+	left:-110px;
+	height:0px;
+	width:150px;
+	border:solid 1px;
+}
+
+
+
