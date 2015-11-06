@@ -1,12 +1,17 @@
 body {
 	/*background: url("res/background.jpg") 0 0 no-repeat;*/
-	background-size: 100% auto	
+	/*background-size: 100% auto*/	
+	padding-top: 66px;
+}
+.navbar{
+	font-family: 'Roboto';
+	font-weight: 400;
 }
 
 .tutor{
 	position: relative;
-	top:135px;
-	left:300px;
+	top:70px;
+	left:310px;
 	height:500px;
 	width:900px;
 }
@@ -18,10 +23,10 @@ body {
 	font-size: 60px;
 	font-family: "Roboto";
 	font-weight: 300;
-	left:256px;
+	left:266px;
 }
 #x{
-	top:140px;
+	top:165px;
 }
 #y{
 	top:287px;
@@ -33,10 +38,10 @@ body {
 .box{
 	display: none;
 	position: relative;
+	top:25px;
 	left: 75px;
 	right: 50px;
 	height: 90px;
-	width: 457px;
 	background-color: #fcfcfc;
 	border: solid 2px;
 	border-color: black;
@@ -46,7 +51,7 @@ body {
 .sign{
 	position: absolute;
 	top:163px;
-	left:-92px;
+	left:-88px;
 }
 
 #b2{

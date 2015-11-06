@@ -105,10 +105,12 @@ var merge_box = function(){
 		$(".ansbox").html("<p class='number'>"+sum+"</p>");
 		$(".number").fadeIn(1000);
 		$(".ansbox").css("border-color","#193E89");
-	},1000);
+	},0);
 }
 
 var main = function(){
+	$("body").css("background","url('res/b2.jpg') 0px 0px no-repeat");
+	$("body").css("background-size","100% auto");
 	window.setTimeout(initialize_new_addition,100);
 	$("#plus").click(function(){
 		move_box();
