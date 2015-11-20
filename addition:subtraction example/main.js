@@ -38,7 +38,7 @@ var initialize_new_addition = function(){
 									"</div>");
 		set_inner_dot_property(i);
 		set_outer_dot_property(i);
-		$("#"+i+"0").click(dot_click);
+		$("#"+i+"0").click(add_up_click);
 		$("#"+i).delay(i*100).animate({
 			opacity : "1",
 		},300);
@@ -50,7 +50,6 @@ var initialize_new_addition = function(){
 										"</div>");
 			set_inner_dot_property(i);
 			set_outer_dot_property(i);
-			$("#"+i+"0").click(dot_click);
 			$("#"+i).delay(i*100).animate({
 				opacity : "1",
 			},300);
@@ -122,6 +121,23 @@ var show_answer = function(){
 		$(".number").fadeIn(1000);
 	},400);
 }
+
+var add_up_click = function(){
+	for(var i = 1; i <= x; i++){
+		cursum ++;
+		$("#"+i+"0").animate({
+			top: "255px",
+			left: -i*86+cursum*84+"px"
+		});
+	}
+	$("#b3").animate({
+		width: boxsize[cursum]
+	},300,"swing");
+	for(var i = x+1; i <= sum; i++){
+		$("#"+i+"0").click(dot_click);
+	}
+}
+
 var dot_click = function(){
 	cursum++;
 	var id = parseInt($(this).attr('id'));
