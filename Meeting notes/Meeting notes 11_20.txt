@@ -1,0 +1,45 @@
+Meeting notes: 20th November
+
+Talk with Kevin
+[Safinah]: Sound notes, open source: Download open source software and use their notes.
+JQuery is MIT license
+
+>Kid texting in tanzania: what all do we need for kid testing?
+prompts: english + swahili
+pre-requisite: 
+counting 
+
+Prompts for Addition:
+Let’s add some numbers now. 
+Adding 2 balls to 3 balls is putting them together and counting them. 
+Adding 3 balls plus 2 balls means putting them together and seeing how many you get. 
+This is a called plus sign : highlight plus sign, eg. increasing size, drawing circle around it.
+Now, it’s your turn. Let’s tap on the two balls to add them to the 3 balls. How many balls do you get?
+If answer is right, cheer
+If wrong, not right, try again.
+If wrong again, no the right answer is —
+
+ [Harry]: Structure code so that you can switch audio files. English to Swahili. 
+Joash is getting us Swahili audio tracks for the English prompts. We need mp3 files.
+
+>Keep it to first person tone, “we” or “let’s”. 
+>3+2 is 5, highlight each. 
+
+[Harry]: get a numeric keypad
+[Safinah]: Send “highlighted” assets. Highlight: add a glow color, make size bigger or add an animation. 
+
+Prompt for Subtraction:
+This is a minus sign
+Subtracting 3 balls minus 2 balls is taking 2 balls away from 3 balls and seeing how many are left. 
+3 - 2 is 1, (highlight each)
+Now, it’s your turn.
+Let’s tap on the two balls and see how many are left.
+1 ball is left.
+So 3 - 2 is 1. 
+
+To make them aware of shapes: 
+Tap on the <shape name> to add them/to take them away. 
+
+Interactive version: How many balls do you get/how many balls are left?
+Tap on your answer. 
+

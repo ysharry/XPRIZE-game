@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			subtraction example | CMU
+		</title>
+		<link rel="stylesheet" href="bootstrap.min.css">
+		<link rel="stylesheet" href="sub.css" media="screen"/>
+	</head>
+	<body>
+		<audio id = "audio">
+		</audio>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+				<div>
+			      <a class="navbar-brand" href="">XPRIZE CMU</a>
+			    </div>
+				<ul class="nav navbar-nav navbar-left">
+					<li><a href="addition.html">Addition</a></li>
+					<li class="active"><a>Subtraction</a></li>
+					<li><a target="_blank">Other XPRIZE game</a></li>
+				</ul>
+				<form class= "navbar-form pull-right">
+						<a  class="btn btn-primary" style="width: 150px">New Subtraction</a>
+						<a  class="btn btn-success" id ="cgbk" style="width: 150px">Change Theme</a>
+				</form>
+		</nav>
+		<!-- <div id = "skip"><p>Skip Tutor >></p></div> -->
+		<p class = "label" id="x"></p>
+		<p class = "label" id="y"></p>
+		<p class = "label" id ="sum"></p>
+		<div class = "tutor">
+		 	<div class= "sign">
+				<p>-</p>
+			</div>
+		 	<div class = "box" id = "b1">
+		 		<div class= "container">
+			 	</div>
+		 	</div>
+		 	
+		 	<div class = "box" id = "b2">
+		 		<div class= "container">
+			 	</div>
+		 	</div>
+		 	<div class = "line"></div>
+		 	<div class = "answer">
+		 		<div class = "ansbox"></div>
+		 	</div>
+		 	<div class = "box" id = "b3">
+		 		<div class = "container"></div>
+		 	</div>
+		</div>
+
+		<div class = "keypad">
+			<div class="btn-group btn-group-justified" role="group" aria-label="...">
+			  <a role="button" class="btn btn-default btn-lg">0</a>
+			  <a role="button" class="btn btn-default btn-lg">1</a>
+			  <a role="button" class="btn btn-default btn-lg">2</a>
+			  <a role="button" class="btn btn-default btn-lg">3</a>
+			  <a role="button" class="btn btn-default btn-lg">4</a>
+			  <a role="button" class="btn btn-default btn-lg">5</a>
+			  <a role="button" class="btn btn-default btn-lg">6</a>
+			  <a role="button" class="btn btn-default btn-lg">7</a>
+			  <a role="button" class="btn btn-default btn-lg">8</a>
+			  <a role="button" class="btn btn-default btn-lg">9</a>
+			</div>
+		</div>
+
+		<div id = "start" class = "btn btn-success btn-lg">Start Game</div>
+		
+		
+		<script src="jquery-1.11.3.min.js"></script>
+		<script src="jquery-ui.js"></script>
+		<script src="bootstrap.min.js"></script>
+		<script src="sub.js"></script>
+	</body>
+</html>
